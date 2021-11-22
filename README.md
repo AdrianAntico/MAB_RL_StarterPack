@@ -1,4 +1,37 @@
-# BabyRobot
-A Baby Robot's Guide to Reinforcement Learning
+## StarterPack for Multi-Armed-Bandits and Reinforcement Learning
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WhatIThinkAbout/BabyRobot/HEAD)
+### **Multi-Armed-Bandits**
+<p>
+
+<details><summary>Method 01</summary>
+<p>
+
+
+<details><summary>Code Example 01</summary>
+<p>
+
+```python
+# Code to hightlight
+```
+
+</p>
+</details>
+
+
+### **Reinforcement Learning**
+<p>
+
+<details><summary>Method 01</summary>
+<p>
+
+
+<details><summary>Code Example 01</summary>
+<p>
+
+```python
+# Code to hightlight
+```
+
+</p>
+</details>
+
