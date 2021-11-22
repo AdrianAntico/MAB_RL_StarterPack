@@ -1,4 +1,4 @@
-## StarterPack for Multi-Armed-Bandits and Reinforcement Learning
+## Multi-Armed-Bandits and Reinforcement Learning
 
 ### **Multi-Armed-Bandits**
 <p>
